@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bdsconsultas-main.iml" filepath="$PROJECT_DIR$/.idea/bdsconsultas-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri2602/uri2602.iml" filepath="$PROJECT_DIR$/uri2602/uri2602.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri2609/uri2609.iml" filepath="$PROJECT_DIR$/uri2609/uri2609.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri2611/uri2611.iml" filepath="$PROJECT_DIR$/uri2611/uri2611.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri2621/uri2621.iml" filepath="$PROJECT_DIR$/uri2621/uri2621.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri2737/uri2737.iml" filepath="$PROJECT_DIR$/uri2737/uri2737.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uri2990/uri2990.iml" filepath="$PROJECT_DIR$/uri2990/uri2990.iml" />
+    </modules>
+  </component>
+</project>
