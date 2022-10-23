@@ -29,5 +29,11 @@ public class Uri2990Application implements CommandLineRunner {
 
 		for (EmpregadoDeptDTO x : result1)
 			System.out.println(x);
+
+		List<EmpregadoDeptProjection> list2 = repository.search2();
+		List<EmpregadoDeptDTO> result2 = list2.stream().map(EmpregadoDeptDTO::new).collect(Collectors.toList());
+
+		for (EmpregadoDeptDTO x : result2)
+			System.out.println(x);
 	}
 }
