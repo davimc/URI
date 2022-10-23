@@ -17,6 +17,6 @@ public interface EmpregadoRepository extends JpaRepository<Empregado, Long> {
             "   SELECT empregados.cpf  " +
             "   FROM empregados " +
             "   INNER JOIN trabalha ON trabalha.cpf_emp = empregados.cpf " +
-            ") ")
+            ") ORDER BY empregados.cpf")
     public List<EmpregadoDeptProjection> search1();
 }
